@@ -253,3 +253,7 @@ tr:nth-child(9) {
     text-decoration: none;
     text-transform: uppercase;
 }
+
+.ERROR {
+    background-color: red;
+}
